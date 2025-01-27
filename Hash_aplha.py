@@ -1,11 +1,9 @@
 import os
-import sys
-import datetime
 import hashlib
 import signature
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
-from PIL import Image
+
 
 class HashToolkit:
     def __init__(self):
@@ -172,7 +170,6 @@ class HashToolkit:
         now = datetime.datetime.now()
         log_file = f"hash_{algo.upper()}.txt"
         
-        with open(log_file, "a") as log:
             log.write(f"Timestamp: {now.strftime('%Y-%m-%d %H:%M:%S')}\n")
             log.write(f"Type: {hash_type.capitalize()} Hashing\n")
             log.write(f"Input: {input_data}\n")
@@ -196,7 +193,7 @@ class HashToolkit:
         self.root.mainloop()
 
 def main():
-    toolkit = HashToolkit()
+ 
     toolkit.run()
 
 if __name__ == "__main__":
