@@ -1,0 +1,12 @@
+Timestamp: 2025-01-27 01:42:08
+Type: File Hashing
+Input: C:/Users/victus/Documents/_Getintopc.com_Proxy.Switcher.PRO.6.4.0.7666.rar
+Algorithm: MD5
+Result: 4b14291d34ae5ebc7b09c3cce78addd8
+##################################################
+Timestamp: 2025-01-27 01:43:49
+Type: File Hashing
+Input: C:/Users/victus/Documents/Agilepk-agilewatt.pptx
+Algorithm: MD5
+Result: f928ab0987ad09f6ba87fbd2eb5b6fb8
+##################################################

@@ -1,0 +1,6 @@
+Timestamp: 2025-01-27 01:48:15
+Type: File Hashing
+Input: C:/Users/victus/Documents/ENSA_Module_3.pptx
+Algorithm: SHA512
+Result: bfa70b27d3111766a9340db0626dfbaa8f7af8a55fb794af5a77f038823f32abca427a86541e7a3a449d613729755393659abf768086ef0c35e37720d5f837ce
+##################################################
